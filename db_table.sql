@@ -1,5 +1,5 @@
 create table Student {
-  name varchar1,
-  roll carchar2,
-  result number(2, 2)
+  name varchar2,
+  roll varchar2,
+  result number(3, 2)
 };
